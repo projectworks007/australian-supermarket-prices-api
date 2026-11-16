@@ -1,0 +1,103 @@
+{
+  "site": "woolworths",
+  "count": 2,
+  "results": [
+    {
+      "input": "milk 2l",
+      "inputType": "search",
+      "position": 1,
+      "stockcode": 888137,
+      "name": "Woolworths Full Cream Milk 2L",
+      "brand": "Woolworths",
+      "packageSize": "2L",
+      "price": 3.4,
+      "wasPrice": 3.4,
+      "isOnSpecial": false,
+      "isHalfPrice": false,
+      "savings": 0,
+      "promotion": null,
+      "unitPrice": 1.7,
+      "unitMeasure": "1L",
+      "unitPriceText": "$1.70 / 1L",
+      "instorePrice": 3.4,
+      "isAvailable": true,
+      "isInStock": true,
+      "barcode": "19300633563025",
+      "department": "Dairy, Eggs & Fridge",
+      "category": "Full Cream Milk",
+      "healthStarRating": 4,
+      "allergensContains": [
+        "Milk"
+      ],
+      "allergensMayContain": [],
+      "lifestyle": [
+        "Gluten Free",
+        "Low Salt",
+        "Source of Protein",
+        "Vegetarian"
+      ],
+      "countryOfOrigin": null,
+      "ingredients": "Pasteurised and Homogenised Full Cream Milk.",
+      "nutrition": {
+        "Calcium per Serve": "292.0mg",
+        "Carbohydrate per 100g": "4.8g",
+        "Carbohydrate per Serve": "12.0g",
+        "Cholesterol per Serve": "25.03mg"
+      },
+      "image": "https://cdn0.woolworths.media/content/wowproductimages/large/888137.jpg",
+      "url": "https://www.woolworths.com.au/shop/productdetails/888137/woolworths-full-cream-milk",
+      "status": "OK",
+      "scrapedAt": "2026-11-16T03:50:57.962Z"
+    },
+    {
+      "input": "milk 2l",
+      "inputType": "search",
+      "position": 2,
+      "stockcode": 888139,
+      "name": "Woolworths Lite Milk 2L",
+      "brand": "Woolworths",
+      "packageSize": "2L",
+      "price": 3.4,
+      "wasPrice": 3.4,
+      "isOnSpecial": false,
+      "isHalfPrice": false,
+      "savings": 0,
+      "promotion": null,
+      "unitPrice": 1.7,
+      "unitMeasure": "1L",
+      "unitPriceText": "$1.70 / 1L",
+      "instorePrice": 3.4,
+      "isAvailable": true,
+      "isInStock": true,
+      "barcode": "19300633563049",
+      "department": "Dairy, Eggs & Fridge",
+      "category": "Skim & Reduced Fat Milk",
+      "healthStarRating": 5,
+      "allergensContains": [
+        "Milk"
+      ],
+      "allergensMayContain": [],
+      "lifestyle": [
+        "Gluten Free",
+        "Low Fat",
+        "Low Salt",
+        "Source of Protein",
+        "Vegetarian"
+      ],
+      "countryOfOrigin": null,
+      "ingredients": "Pasteurised and Homogenised Reduced Fat Milk.",
+      "nutrition": {
+        "Calcium per Serve": "305.0mg",
+        "Carbohydrate per 100g": "4.9g",
+        "Carbohydrate per Serve": "12.2g",
+        "Cholesterol per Serve": "12.53mg"
+      },
+      "image": "https://cdn0.woolworths.media/content/wowproductimages/large/888139.jpg",
+      "url": "https://www.woolworths.com.au/shop/productdetails/888139/woolworths-lite-milk",
+      "status": "OK",
+      "scrapedAt": "2026-11-16T03:50:58.060Z"
+    }
+  ],
+  "notes": [],
+  "problems": []
+}
